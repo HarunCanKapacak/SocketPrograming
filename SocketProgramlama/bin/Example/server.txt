@@ -1,0 +1,2 @@
+Bu Program Bootcamp bitirme projesi olarak tasarlanmistir.
+Bu txt dosyasini server cliente gonderir.
